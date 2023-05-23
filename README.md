@@ -1,4 +1,4 @@
-<h1>ConverT Money</h1>
+<h1>Convert Money</h1>
 <h2>Projeto conversor de moedas, converte o real para Dólar e Euro.</h2>
 
 Link: <a>https://tomjnnery44.github.io/Convert-Money/</a>
